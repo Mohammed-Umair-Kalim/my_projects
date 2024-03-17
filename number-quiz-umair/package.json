@@ -1,0 +1,26 @@
+{
+  "name": "number-quiz-umair",
+  "version": "1.0.1",
+  "description": "A number quiz with Typescript, Node.js, Inquirer and Chalk",
+  "main": "number-quiz.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./number-quiz.js",
+  "keywords": [
+    "npm",
+    "npm",
+    "number-quiz-umair"
+  ],
+  "author": "mohammed_umair",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.28"
+  }
+}
